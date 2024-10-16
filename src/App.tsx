@@ -18,12 +18,12 @@ export const App: FC = () => {
         <>
             <Navbar expand="lg" className="bg-body-tertiary">
                 <Container>
-                    <Navbar.Brand href="/">Greek trainer</Navbar.Brand>
+                    <Navbar.Brand href="./">Greek trainer</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse role="combobox" id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="/alphabet">Алфавит</Nav.Link>
-                            <Nav.Link href="/duotongs" disabled>Дивтонги</Nav.Link>
+                            <Nav.Link href="./alphabet">Алфавит</Nav.Link>
+                            <Nav.Link href="./duotongs" disabled>Дивтонги</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

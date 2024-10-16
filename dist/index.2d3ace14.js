@@ -27246,7 +27246,7 @@ const App = ()=>{
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Container), {
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Navbar).Brand, {
-                            href: "/",
+                            href: "./",
                             children: "Greek trainer"
                         }, void 0, false, {
                             fileName: "src/App.tsx",
@@ -27267,7 +27267,7 @@ const App = ()=>{
                                 className: "me-auto",
                                 children: [
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Nav).Link, {
-                                        href: "/alphabet",
+                                        href: "./alphabet",
                                         children: "\u0410\u043B\u0444\u0430\u0432\u0438\u0442"
                                     }, void 0, false, {
                                         fileName: "src/App.tsx",
@@ -27275,7 +27275,7 @@ const App = ()=>{
                                         columnNumber: 29
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactBootstrap.Nav).Link, {
-                                        href: "/duotongs",
+                                        href: "./duotongs",
                                         disabled: true,
                                         children: "\u0414\u0438\u0432\u0442\u043E\u043D\u0433\u0438"
                                     }, void 0, false, {
